@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#first-car{
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#menu{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+}
+#account{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+}
+#shop{
+    margin: 0px 0px 0px 150px;
+    color: rgb(65, 63, 63);
+}
+#model-y{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+}
+#model-x{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+}
+#model-3{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+}
+#model-s{
+    margin: 0px 0px 0px 300px;
+    color: rgb(65, 63, 63);
+}
+#tesla{
+    margin: 0px 0px 0px 50px;
+    font-size: 30px;
+}
+#model-3-title{
+    margin: 0px 0px 0px 600px;
+    font-size: 60px;
+    color: rgb(29, 28, 28);
+}
+#touchless-delivery{
+    color: rgb(26, 25, 25);
+}
+#online-order{
+    margin: 0px 0px 0px 580px;
+    color: rgb(26, 25, 25);
+}
+
+#custom-btn{
+    text-decoration: none;
+    background-color: rgb(34, 33, 33);
+    margin: 0px 0px 0px 480px;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+#existing-btn{
+    margin: 0px 0px 0px 30px;
+    text-decoration: none;
+    background-color: white;
+    color: rgb(34, 33, 33);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+#fixed{
+    position: fixed;
+}
+
+secound car 
+
+
+#first-car{
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
