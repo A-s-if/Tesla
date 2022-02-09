@@ -1,0 +1,188 @@
+#tesla{
+    margin: 0px 0px 0px 50px;
+    font-size: 30px;
+}
+
+
+#tesla-ankor{
+    text-decoration: none;
+    color: #000;
+}
+
+#menu{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#menu:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+#account{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#account:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+#shop{
+    margin: 0px 0px 0px 220px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#shop:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+
+#model-y{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#model-y:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+#model-x{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#model-x:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+#model-3{
+    margin: 0px 0px 0px 30px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#model-3:hover{
+    background: rgb(233, 230, 230);
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: 1s;
+}
+
+#model-s{
+    margin: 0px 0px 0px 360px;
+    color: rgb(65, 63, 63);
+    cursor: pointer;
+}
+
+#title{
+    margin: 0px 0px 0px 600px;
+    font-size: 60px;
+    color: rgb(29, 28, 28);
+}
+
+#main{
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#plaid{
+    font-size: 20px;
+    margin: 0px 0px 0px 680px;
+    color: rgb(29, 28, 28);
+}
+
+#ankor{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 5px 50px;
+    margin: 0px 0px 0px 90px;
+}
+
+#ankor:hover{
+    background: white;
+    color: #000;
+}
+
+#hp{
+    color: white;
+    font-size: 30px;
+    margin: 0px 0px 0px 50px;
+    font-weight: bold;
+}
+
+
+#mph{
+    color: white;
+    font-size: 30px;
+    margin: 0px 0px 0px 50px;
+    font-weight: bold;
+}
+
+#s{
+    color: white;
+    font-size: 30px;
+    margin: 0px 0px 0px 50px;
+    font-weight: bold;
+}
+
+#mi{
+    color: white;
+    font-size: 30px;
+    margin: 0px 0px 0px 250px;
+    font-weight: bold;
+}
+
+
+#peak-power{
+    color: white;
+    font-size: 15px;
+    margin: 0px 0px 0px 70px;
+    font-weight: bold;
+}
+
+#top-speed{
+    color: white;
+    font-size: 15px;
+    margin: 0px 0px 0px 60px;
+    font-weight: bold;
+}
+
+#mph2{
+    color: white;
+    font-size: 15px;
+    margin: 0px 0px 0px 40px;
+    font-weight: bold;
+}
+
+#range{
+    color: white;
+    font-size: 15px;
+    margin: 0px 0px 0px 235px;
+    font-weight: bold;
+}
